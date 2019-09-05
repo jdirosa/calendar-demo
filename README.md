@@ -4,7 +4,7 @@ This demo was put together using [Create React App](https://github.com/facebook/
 ## Getting it Started
 1. ```npm i```
 1. ```npm run```
-1. Open browser and navigate to http://localhost:3000, or click [here](http://localhost:3000/).
+2. Open browser and navigate to http://localhost:3000.
 
 ## Testing
 1. ```npm run test```
