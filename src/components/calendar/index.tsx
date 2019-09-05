@@ -5,11 +5,11 @@ import {
   getDaysInMonth,
   getNextDate,
   getCalendarOffset,
+  months,
 } from '../../utils/date-helpers';
 import { NewEvent } from './modals/new-event';
 import { useEventContext } from '../../context-providers/event-context';
 import { EventType } from '../../types';
-interface Props {}
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -17,7 +17,7 @@ const useStyles = makeStyles(theme => ({
     marginTop: 20,
   },
 }));
-export const Calendar: React.FunctionComponent<Props> = ({}) => {
+export const Calendar: React.FunctionComponent = () => {
   const classes = useStyles();
   const [selectedDate, setSelectedDate] = React.useState<Date | undefined>();
   const ctx = useEventContext();
@@ -40,9 +40,10 @@ export const Calendar: React.FunctionComponent<Props> = ({}) => {
       setSelectedDate(date);
     }
   };
+  const currentMonth = months[new Date().getMonth()];
   return (
     <React.Fragment>
-      <Typography variant="h4">September</Typography>
+      <Typography variant="h4">{currentMonth}</Typography>
       <Paper className={classes.root}>
         <Grid container>
           {getCalendarDays().map((d, i) => (
