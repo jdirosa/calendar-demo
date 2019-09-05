@@ -1,0 +1,677 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Array [
+  <h4
+    className="MuiTypography-root MuiTypography-h4"
+  >
+    September
+  </h4>,
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 makeStyles-root-1 MuiPaper-rounded"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h6"
+            style={
+              Object {
+                "marginBottom": 6,
+              }
+            }
+          >
+            Monday
+          </h4>
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            26
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h6"
+            style={
+              Object {
+                "marginBottom": 6,
+              }
+            }
+          >
+            Tuesday
+          </h4>
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            27
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h6"
+            style={
+              Object {
+                "marginBottom": 6,
+              }
+            }
+          >
+            Wednesday
+          </h4>
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            28
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h6"
+            style={
+              Object {
+                "marginBottom": 6,
+              }
+            }
+          >
+            Thursday
+          </h4>
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            29
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h6"
+            style={
+              Object {
+                "marginBottom": 6,
+              }
+            }
+          >
+            Friday
+          </h4>
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            30
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h6"
+            style={
+              Object {
+                "marginBottom": 6,
+              }
+            }
+          >
+            Saturday
+          </h4>
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            31
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <h4
+            className="MuiTypography-root MuiTypography-h6"
+            style={
+              Object {
+                "marginBottom": 6,
+              }
+            }
+          >
+            Sunday
+          </h4>
+          <div
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            September 1
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            2
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            3
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            4
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-today-164 MuiAvatar-colorDefault"
+          >
+            5
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            6
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            7
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            9
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            10
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            11
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            12
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            13
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            14
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            15
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            16
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            17
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            18
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            19
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            20
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            21
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            22
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            23
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            24
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            25
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            26
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            27
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            28
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            29
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            30
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiTypography-root MuiTypography-body1"
+          >
+            October 1
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            2
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            3
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            4
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            5
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root makeStyles-grid-162 MuiGrid-item"
+      >
+        <div
+          className="makeStyles-paper-163"
+          onClick={[Function]}
+        >
+          <div
+            className="MuiAvatar-root makeStyles-avatar-165 MuiAvatar-colorDefault"
+          >
+            6
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
