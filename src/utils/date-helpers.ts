@@ -27,7 +27,7 @@ export function areDatesOnSameDay(date1: Date, date2: Date) {
   );
 }
 
-/** Fromat the date in the format Thursday, Setpember 5, 2019  */
+/** Format the date in the format Thursday, September 5, 2019  */
 export function getFormattedDate(date: Date) {
   return `${weekdays[date.getDay()]}, ${
     months[date.getMonth()]
@@ -45,7 +45,7 @@ export const weekdays = [
   'Saturday',
 ];
 
-/** A constant to map the month string with the date month numbner */
+/** A constant to map the month string with the date month number */
 export const months = [
   'January',
   'February',

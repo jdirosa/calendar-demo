@@ -17,7 +17,7 @@ test('compares the different date and returns false', () => {
   expect(isDaySame).toBe(false);
 });
 
-test('gets the string represenation of a date', () => {
+test('gets the string representation of a date', () => {
   const d = new Date(2018, 4, 1);
   expect(getFormattedDate(d)).toBe('Tuesday, May 1, 2018');
 });
